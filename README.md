@@ -2,20 +2,20 @@ Mesh2Wire
 =====================================================
 This progrem converts polygon mesh to 3d printable wire model.
 
-###Details
+### Details
 Input mesh should be off file format.
 Output wire model is generated as off file.
 
-###Requirement
+### Requirement
 1. [CGAL](http://www.cgal.org/)
 
-###Sample
+### Sample
 
-#####input
+##### input
 bunny model (courtesy of [the Stanford 3D Scanning Repository](http://graphics.stanford.edu/data/3Dscanrep/))
 
 ![input](data/input.png)
-#####output
+##### output
 ![output](data/output.png)
-#####printed model
+##### printed model
 ![printed](data/printed.png)
